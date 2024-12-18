@@ -1,6 +1,0 @@
-@bom_dia_bot_HostAddress = http://localhost:5105
-
-GET {{bom_dia_bot_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
